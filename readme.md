@@ -29,6 +29,7 @@ Spring Cloud Data Flow follows a **modular and cloud-native** architecture, enab
 ### Core Components
 - **Spring Cloud Data Flow Server**: The central orchestrator that manages deployment, execution, and monitoring of applications.
 - **Spring Cloud Skipper**: Handles the lifecycle management of streaming applications, allowing updates and rollbacks.
+
 ![image](https://github.com/user-attachments/assets/f8c1dca7-ce2f-4c08-982c-26ef69b06018)
 
 
