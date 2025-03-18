@@ -1,0 +1,5 @@
+/Users/hosumlai/test/spring-cloud-data-flow-poc/tasks/poc-task/src/main/java/com/example/BatchProcessingApplication.java
+/Users/hosumlai/test/spring-cloud-data-flow-poc/tasks/poc-task/src/main/java/com/example/config/BatchConfig.java
+/Users/hosumlai/test/spring-cloud-data-flow-poc/tasks/poc-task/src/main/java/com/example/entity/Person.java
+/Users/hosumlai/test/spring-cloud-data-flow-poc/tasks/poc-task/src/main/java/com/example/tasks/CsvReader.java
+/Users/hosumlai/test/spring-cloud-data-flow-poc/tasks/poc-task/src/main/java/com/example/tasks/JsonWriter.java

@@ -1,0 +1,5 @@
+com/example/config/BatchConfig.class
+com/example/tasks/CsvReader.class
+com/example/BatchProcessingApplication.class
+com/example/tasks/JsonWriter.class
+com/example/entity/Person.class
