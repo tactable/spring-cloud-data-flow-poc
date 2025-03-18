@@ -59,7 +59,7 @@ Ensure you have the following installed:
 
 ### 4. Register and Deploy Task
 ```sh
- app register --name my-task --type task --uri file:///tasks/jars/poc-task-1.0-SNAPSHOT.jar
+ app register --name my-task --type task --uri file:///opt/jars/poc-task-1.0-SNAPSHOT.jar
  task create my-task-instance --definition "my-task"
 ```
 
